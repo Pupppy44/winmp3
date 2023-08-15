@@ -1,3 +1,7 @@
+<p align="center"> <img width="default" height="150"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Apple_Music_icon.svg/2048px-Apple_Music_icon.svg.png">
+</p>
+
 # winmp3 - Single-header MP3 Player for Windows
 
 `winmp3` is a lightweight and user-friendly single-header MP3 player designed for Windows programs. `winmp3` allows you to play MP3 files and control playback features such as play, pause, stop, speed, and volume.
