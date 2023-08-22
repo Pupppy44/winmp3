@@ -1,4 +1,4 @@
-<p align="center"> <img width="default" height="150"
+<p align="center"> <img width="default" height="180"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Apple_Music_icon.svg/2048px-Apple_Music_icon.svg.png">
 </p>
 
