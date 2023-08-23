@@ -7,8 +7,8 @@ class winmp3 {
 public:
     winmp3() {
         if (FAILED(CoInitializeEx(NULL, COINIT_MULTITHREADED))) {
-			return;
-		}
+	    return;
+	}
         if (FAILED(CoCreateInstance(CLSID_FilterGraph, NULL, CLSCTX_INPROC_SERVER, IID_IGraphBuilder, (void**)&p_graph))) return;
         
         p_graph->QueryInterface(IID_IMediaControl, (void**)&p_control);
